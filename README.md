@@ -1,5 +1,7 @@
 # Coin Flip
 
+<p>Just a simple app to flip a coin.</p>
+
 https://github.com/user-attachments/assets/76487f5d-76db-476f-a669-745c40ec0a0d
 
 ## macOS:
