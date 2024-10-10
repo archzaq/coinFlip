@@ -53,7 +53,7 @@ struct ContentView_iOS: View {
 
     private func flipCoin() {
         rotation += 360
-        DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
             coinSide = coinSides.randomElement() ?? "Heads"
         }
     }
